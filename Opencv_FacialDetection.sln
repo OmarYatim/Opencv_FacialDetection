@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Opencv_FacialDetection", "Opencv_FacialDetection\Opencv_FacialDetection.pyproj", "{32908881-FD50-46B8-9115-E073DD8A32FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32908881-FD50-46B8-9115-E073DD8A32FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32908881-FD50-46B8-9115-E073DD8A32FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956D9D9E-7CA5-4472-8398-6747D59292FF}
+	EndGlobalSection
+EndGlobal
